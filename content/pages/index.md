@@ -78,9 +78,9 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Lets start your project today
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
+    content: >
+      ## Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit
+      amet cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
       - label: Get Started
